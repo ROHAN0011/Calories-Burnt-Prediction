@@ -1,2 +1,2 @@
 # Calories-Burnt-Prediction
-### DSC VIT ML Fest'22 Project
+### YBI Foundation Final Capstone Project
