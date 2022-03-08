@@ -1,4 +1,4 @@
 # Calories-Burnt-Prediction
 ### YBI Foundation Final Capstone Project
 
-<p align= "center"><img src="https://github.com/ROHAN0011/Id-Card-Generator-with-QR-Code/blob/ef26a013cd5e131a21c9157b54e7da956c6b6fa1/ID%20with%20QR.jpeg" width="500" height= "300"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Calories-Burnt-Prediction/blob/fda38c94aa71c0396bedfa3bb27e7763ea8a54f8/YBI%20Foundation.jpeg" width="500" height= "300"></p>
